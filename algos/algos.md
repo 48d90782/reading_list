@@ -1,0 +1,15 @@
+- [The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
+- [The Ubiquitous B-Tree](http://carlosproal.com/ir/papers/p121-comer.pdf)
+- [The Log-Structured Merge-Tree](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf)
+- [Kafka: a Distributed Messaging System for Log Processing
+](http://notes.stephenholiday.com/Kafka.pdf)
+- [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
+- [A Certified Digital Signature](http://www.merkle.com/papers/Certified1979.pdf)
+- [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)
+- [Harvest, Yield, and Scalable Tolerant Systems](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/harvest-yield-and-scalable-tolerant-systems.pdf)
+- [The Byzantine Generals Problem](https://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
+- [Linearizability: A Correctness Condition for Concurrent Objects](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf)
+- [Conflict-free Replicated Data Types](https://arxiv.org/abs/1805.06358)
+- [Delta State Replicated Data Types](https://arxiv.org/abs/1603.01529)
+- [Making reliable distributed systems in the presence of software errors](https://erlang.org/download/armstrong_thesis_2003.pdf)
+
